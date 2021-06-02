@@ -9,6 +9,10 @@ app.get('/', (req, res) => {
     res.render('index');
 });
 
+app.get('/perguntas', (req,res) => {
+    res.render('perguntas');
+});
+
 app.listen(port, () => {
     console.log(`A porta está aberta em http://localhost:${port}`);
 });
