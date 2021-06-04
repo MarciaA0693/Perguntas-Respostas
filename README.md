@@ -10,6 +10,8 @@ Este projeto é baseado no Curso [Formação Node.js](https://www.udemy.com/cour
 - Javascript
 - Node.js
 - Express.js
+- Body Parser
 - Sequelize
+- MySql
 
 ### 😉 Made by Marcia
